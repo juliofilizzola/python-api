@@ -1,9 +1,7 @@
-# Nome do Projeto
+# Python Api
 
 ## Descrição
 
-Descreva brevemente o que esse projeto faz ou a finalidade principal dele. Explique o problema que ele resolve ou o
-objetivo que busca atingir.
 
 ## Índice
 
