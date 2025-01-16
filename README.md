@@ -11,9 +11,6 @@ objetivo que busca atingir.
 - [Requisitos](#requisitos)
 - [Instalação](#instalação)
 - [Como Usar](#como-usar)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ## Funcionalidades
 
